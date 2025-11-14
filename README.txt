@@ -9,4 +9,4 @@ Instructions:
 1. Use a terminal and run the simulator to see logs if something fails:
    python simulator.py sample_map.json
 2. Press S to toggle spawn mode and click two hubs to spawn a manual car.
-3. Edit sample_map.json or create new maps in editor and load them in simulator
+3. Edit sample_map.json or create new maps in editor and load them in simulator.
